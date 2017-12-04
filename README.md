@@ -7,7 +7,7 @@ Para iniciar el pod con las replicas necesarias se debe ejecutar el comando
 
 `kubectl run web-deployment --image=dgutierrez64/nodejs --replicas=3 --port=5000 --labels=app=web`
 
-Otos comandos necesarios en la inicializacion
+Otros comandos necesarios en la inicializacion
 
 <img src="img/coms.JPG">
 <img src="img/servs.JPG">
